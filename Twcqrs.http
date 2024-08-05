@@ -1,0 +1,6 @@
+@Twcqrs_HostAddress = http://localhost:5104
+
+GET {{Twcqrs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
